@@ -29,6 +29,7 @@
                                 <span class="caret"></span>
                             </a>
                             <ul class="dropdown-menu">
+                                
                                 <li>
                                     <a href="{{ route('users.show', Auth::user()->id) }}">マイページ</a>
                                 </li>

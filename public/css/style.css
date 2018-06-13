@@ -52,7 +52,10 @@ footer {
 .search {
     margin-bottom: 20px;
 }
-
+.item .buttons form {
+    display: inline-block;
+    margin: 0 5px;
+}
 /* item */
 .item .panel-body {
     height: 120px;
@@ -107,4 +110,3 @@ p.item-title {
 .user-profile .status ul li .status-value {
     font-size: 18px;
 }
-
